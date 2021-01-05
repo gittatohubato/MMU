@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gui_OS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gui_OS_jar</output-path>
+    <root id="archive" name="Gui_OS.jar">
+      <element id="module-output" name="Gui_OS" />
+    </root>
+  </artifact>
+</component>
